@@ -1,0 +1,4 @@
+__pycache__
+*.pyc
+medassist_audit.db
+.git
